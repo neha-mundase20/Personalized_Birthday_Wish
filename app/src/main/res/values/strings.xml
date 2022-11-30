@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BirthdayGreetingInternLabs</string>
+    <string name="enter_your_name">Enter your name:</string>
+    <string name="name">Name</string>
+    <string name="toast_msg">Button is clicked</string>
+    <string name="birthday_greeting">birthdayGreeting</string>
+    <string name="animated_gif">imageView</string>
+
+
+</resources>
