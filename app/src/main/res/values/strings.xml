@@ -5,6 +5,7 @@
     <string name="toast_msg">Button is clicked</string>
     <string name="birthday_greeting">birthdayGreeting</string>
     <string name="animated_gif">imageView</string>
-
+    <string name="create">Create</string>
+    <string name="create1">CREATE</string>
 
 </resources>

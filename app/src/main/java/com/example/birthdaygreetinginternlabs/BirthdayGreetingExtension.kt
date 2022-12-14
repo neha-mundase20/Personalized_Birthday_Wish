@@ -25,7 +25,7 @@ class BirthdayGreetingExtension : AppCompatActivity() {
         val id1 = findViewById<ImageView>(id.imageView);
 
         // Adding the gif here using glide library
-        Glide.with(this).load(drawable.bt21_confetti).into(id1);
+        Glide.with(this).load(drawable.ganesh_bday_final).into(id1);
 
         val name=intent.getStringExtra(NAME_EXTRA)
 
@@ -33,7 +33,7 @@ class BirthdayGreetingExtension : AppCompatActivity() {
 
         val text1= findViewById<TextView>(id.birthdayGreeting)
 
-        text1.text="Happy Birthday $name"
+        text1.text="Happy Birthday $name 🎊"
 
     }
 }
